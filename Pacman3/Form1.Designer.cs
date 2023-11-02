@@ -79,7 +79,7 @@
             this.player.BackColor = System.Drawing.Color.Transparent;
             this.player.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("player.BackgroundImage")));
             this.player.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.player.Location = new System.Drawing.Point(34, 30);
+            this.player.Location = new System.Drawing.Point(30, 30);
             this.player.Name = "player";
             this.player.Size = new System.Drawing.Size(50, 50);
             this.player.TabIndex = 0;
@@ -128,9 +128,9 @@
             // pictureBox5
             // 
             this.pictureBox5.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox5.BackgroundImage")));
-            this.pictureBox5.Location = new System.Drawing.Point(-15, 84);
+            this.pictureBox5.Location = new System.Drawing.Point(0, 84);
             this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(307, 31);
+            this.pictureBox5.Size = new System.Drawing.Size(310, 31);
             this.pictureBox5.TabIndex = 5;
             this.pictureBox5.TabStop = false;
             this.pictureBox5.Tag = "wall";
@@ -299,7 +299,7 @@
             // 
             this.pictureBox20.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox20.BackgroundImage")));
             this.pictureBox20.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox20.Location = new System.Drawing.Point(1119, 30);
+            this.pictureBox20.Location = new System.Drawing.Point(1119, 25);
             this.pictureBox20.Name = "pictureBox20";
             this.pictureBox20.Size = new System.Drawing.Size(45, 48);
             this.pictureBox20.TabIndex = 21;
